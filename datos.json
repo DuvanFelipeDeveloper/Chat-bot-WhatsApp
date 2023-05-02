@@ -1,0 +1,32 @@
+{
+  "questions": [
+    "Hola",
+    "Buenas tardes",
+    "Buenas noches",
+    "\u00bfC\u00f3mo est\u00e1s?",
+    "\u00bfQu\u00e9 tal?",
+    "\u00a1Hola, asistente!",
+    "Hola, \u00bfc\u00f3mo puedo empezar mi dieta?",
+    "Hola, necesito ayuda con mi entrenamiento.",
+    "\u00a1Buenos d\u00edas, asistente!",
+    "Hola, \u00bfc\u00f3mo puedo perder peso?",
+    "\u00bfQu\u00e9 tipo de dieta deber\u00eda seguir si soy ectomorfo?",
+    "\u00bfQu\u00e9 tipo de dieta debo seguir si soy vegano?",
+    "\u00bfCu\u00e1l es la mejor forma de entrenar piernas?"
+  ],
+  "answers": [
+    "Hola, \u00a1bienvenido/a! \u00bfEn qu\u00e9 puedo ayudarte hoy?",
+    "Buenas tardes, espero que est\u00e9s teniendo un gran d\u00eda. \u00bfEn qu\u00e9 puedo ayudarte hoy?",
+    "Buenas noches, \u00bfc\u00f3mo puedo ayudarte a alcanzar tus objetivos de dieta?",
+    "\u00a1Hola! Estoy aqu\u00ed para ayudarte con tus preguntas sobre dieta.",
+    "Hola, estoy aqu\u00ed para ayudarte a mejorar tu salud y bienestar.",
+    "\u00a1Hola! \u00bfC\u00f3mo puedo ayudarte a lograr tus objetivos de dieta?",
+    "Hola, me alegra que hayas decidido tomar medidas para mejorar tu salud. \u00bfEn qu\u00e9 puedo ayudarte?",
+    "Hola, estoy aqu\u00ed para brindarte toda la ayuda que necesites con tu dieta.",
+    "\u00a1Buenos d\u00edas! Espero que hayas tenido una buena noche de descanso. \u00bfEn qu\u00e9 puedo ayudarte hoy?",
+    "Hola, estoy aqu\u00ed para ayudarte a perder peso de manera saludable y sostenible. \u00bfQu\u00e9 preguntas tienes?",
+    "Como ectomorfo, es importante que consumas suficientes calor\u00edas y nutrientes para ganar masa muscular y aumentar de peso. Deber\u00edas seguir una dieta alta en carbohidratos y prote\u00ednas, y asegurarte de comer suficientes grasas saludables. Tambi\u00e9n es importante que comas frecuentemente y en porciones grandes. Puedes incluir alimentos como arroz, pasta, pan integral, pollo, pavo, pescado, carne roja magra, huevos, frutos secos, semillas, aguacate, aceite de oliva y vegetales. Debes evitar comer en exceso alimentos procesados, az\u00facar y grasas trans. Adem\u00e1s, es importante que bebas suficiente agua y te mantengas hidratado durante todo el d\u00eda.",
+    "Un vegano no consume ning\u00fan alimento de origen animal, incluyendo carne, aves, pescado, huevos, l\u00e1cteos, miel y cualquier producto que contenga ingredientes de origen animal, como la gelatina o la case\u00edna. Tambi\u00e9n se recomienda evitar productos procesados que contengan aditivos de origen animal, como la vitamina D3.",
+    "La mejor forma de entrenar piernas es haciendo sentadillas y zancadas"
+  ]
+}
